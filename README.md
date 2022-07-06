@@ -20,3 +20,6 @@ I will be cleaning, exploring, and giving my thoughts on what the data tells us 
 12. Handcap - If patient has a handicap (True/False)
 13. SMS_received - If patient received a text message from the doctor's office (True/False)
 14. No-show - If patient showed up to their scheduled appointment or not (True/False)
+
+## CSV File
+Here is the path for the CSV I used https://github.com/darionruiz/noshow_appts/blob/79c47437192730a86a032178a3be5d4e15eeef15/noshowappointments-kagglev2-may-2016.csv
